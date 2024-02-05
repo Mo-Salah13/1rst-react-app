@@ -5,7 +5,7 @@ export default function Contact() {
     <h2 className='text-danger'>CONTACT US</h2>
     <div className='d-flex justify-content-center align-items-center'>
         <span className='line'></span>
-        <span><i class="text-danger fa-solid fa-star"></i></span>
+        <span><i className="text-danger fa-solid fa-star"></i></span>
         <span className='line'></span>
       </div>
     <div className="container">

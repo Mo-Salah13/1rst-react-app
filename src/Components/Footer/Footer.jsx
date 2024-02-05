@@ -12,10 +12,10 @@ export default function Footer() {
         <h3>AROUND THE WEB</h3>
         <div>
           <p>
-            <i class="p-2 border border-black mx-1 text-danger rounded-circle fa-brands fa-facebook"></i>
-            <i class="p-2 border border-black mx-1 text-danger rounded-circle fa-brands fa-twitter"></i>
-            <i class="p-2 border border-black mx-1 text-danger rounded-circle fa-brands fa-linkedin"></i>
-            <i class="p-2 border border-black mx-1 text-danger rounded-circle fa-solid fa-globe"></i>
+            <i className="p-2 border border-black mx-1 text-danger rounded-circle fa-brands fa-facebook"></i>
+            <i className="p-2 border border-black mx-1 text-danger rounded-circle fa-brands fa-twitter"></i>
+            <i className="p-2 border border-black mx-1 text-danger rounded-circle fa-brands fa-linkedin"></i>
+            <i className="p-2 border border-black mx-1 text-danger rounded-circle fa-solid fa-globe"></i>
           </p>
         </div>
       </div>

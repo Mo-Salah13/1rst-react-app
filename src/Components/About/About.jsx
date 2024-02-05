@@ -8,7 +8,7 @@ export default function About() {
         <h1 className='text-danger'>ABOUT US</h1>
         <div className='d-flex justify-content-center align-items-center mb-4'>
           <span className='line'></span>
-          <span><i class="text-danger fa-solid fa-star"></i></span>
+          <span><i className="text-danger fa-solid fa-star"></i></span>
           <span className='line'></span>
         </div>
         <div className="col-md-6"><p>
